@@ -13,6 +13,6 @@
 ### Frontend
 - [lalalayu87](https://github.com/lalalayu87)
 - [Hanseul-C](https://github.com/Hanseul-C)
-- [lhlhgodz3](https://github.com/lhlhgodz3)
+- [taeyeong0814](https://github.com/taeyeong0814)
 - [yoongjwe](https://github.com/yoongjwe)
 - [choikiyeop](https://github.com/choikiyeop)
