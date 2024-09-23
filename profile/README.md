@@ -5,7 +5,7 @@
  - We are currently a development team within Innogrid, a cloud☁ company located in Seoul.
 
 
-## 🙋‍♀️ Current Maintainers (2023.08. ~)
+## 🙋‍♀️ Maintainers (2023.08. ~ 2024.02.)
   ### Backend
   - [kimsh1006](https://github.com/kimsh1006)
   - [taking](https://github.com/taking)
